@@ -23,5 +23,15 @@ export const theBigBadWolf = {
   name: "Biggie Baddie",
   feels: "hungry",
   eats: "little pigs",
-  wisdomLevel: "medium"
+  wisdomLevel: "cunning"
 }
+
+console.log(`Once upon a time, there were three little pigs. Their names were ${theThreeLittlePigs[0].name}, ${theThreeLittlePigs[1].name}, and ${theThreeLittlePigs[2].name}.`)
+
+console.log(`There was also a big, bad wolf, named ${theBigBadWolf.name}. He was quite ${theBigBadWolf.feels}, especially for ${theBigBadWolf.eats}.`);
+
+/*
+  Once upon a time, there were three little pigs. Their names were Iggy, Ziggy, and Jiggy.
+
+  There was also a big, bad wolf, named Biggie Baddie. He was quite hungry, especially for little pigs.
+*/
