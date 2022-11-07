@@ -1,5 +1,5 @@
-import { theThreeLittlePigs } from "./page-1.js";
-import { makes } from "./page-3.js";
+import { theThreeLittlePigs } from "./page1.js";
+import { makes } from "./page3.js";
 
 const theSecondLittlePig = theThreeLittlePigs[1];
 console.log(theSecondLittlePig);

@@ -1,5 +1,5 @@
 {
-  "name": "TheStoryOfTheThreeLittlePigs",
+  "name": "The Story Of The Three Little Pigs",
   "version": "1.0.0",
   "description": "The story of the three little pigs, written in vanilla javascript (ES6)",
   "main": "_title-page.js",

@@ -1,4 +1,4 @@
-import { theThreeLittlePigs } from "./page-1.js";
+import { theThreeLittlePigs } from "./page1.js";
 
 const theFirstLittlePig = theThreeLittlePigs[0];
 
